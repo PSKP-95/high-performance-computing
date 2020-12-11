@@ -7,7 +7,7 @@ MPI is a specification for the developers and users of message passing libraries
 
 ## Programming Model
 
-![MPI programming model](https://raw.githubusercontent.com/PSKP-95/high-performance-computing/master/MPI/destributed_mem.gif)
+![MPI programming model](https://raw.githubusercontent.com/PSKP-95/high-performance-computing/main/MPI/hello-world/distributed_mem.gif)
 
 ## Semantic Terms
 
